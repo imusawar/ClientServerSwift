@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 46;
+	objectVersion = 47;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -160,7 +160,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0630;
-				ORGANIZATIONNAME = skylite;
+				ORGANIZATIONNAME = "musawar ahmed";
 				TargetAttributes = {
 					D314171B1B192FBD00F32468 = {
 						CreatedOnToolsVersion = 6.3.2;
@@ -172,7 +172,7 @@
 				};
 			};
 			buildConfigurationList = D31417171B192FBD00F32468 /* Build configuration list for PBXProject "ChatClientSwift" */;
-			compatibilityVersion = "Xcode 3.2";
+			compatibilityVersion = "Xcode 6.3";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (

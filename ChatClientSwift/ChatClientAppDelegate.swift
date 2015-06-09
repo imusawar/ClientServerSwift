@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  ChatClientSwift
 //
-//  Created by Attu SmArty on 5/29/15.
-//  Copyright (c) 2015 skylite. All rights reserved.
+//  Created by Musawar Ahmed on 5/29/15.
+//  Copyright (c) 2015 musawar. All rights reserved.
 //
 
 import UIKit
